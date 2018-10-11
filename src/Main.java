@@ -4,8 +4,8 @@ public class Main {
     {
         int alter = 18;
         String vorname = "Kadir";
-        System.out.println("Hello " + vorname + "!");
-        System.out.println("Du bist " + alter + " Jahre alt");
+        String nachname = "Akdogan";
+        System.out.println("Hello " + vorname + " " + nachname + "! Du bist " + alter + " Jahre alt ");
     }
 }
 
