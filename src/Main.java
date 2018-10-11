@@ -6,7 +6,8 @@ public class Main {
         String vorname = "Kadir";
         String nachname = "Akdogan";
         int jahrgang = 2000;
-        System.out.println("Hello " + vorname + " " + nachname + "! Du bist " + alter + " Jahre alt und Jahrgang: " + jahrgang);
+        String herkunft = "Türkei";
+        System.out.println("Hello " + vorname + " " + nachname + "! Du bist " + alter + " Jahre alt und Jahrgang: " + jahrgang + " und kommst aus der " + herkunft + ".");
     }
 }
 
