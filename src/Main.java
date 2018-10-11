@@ -5,7 +5,8 @@ public class Main {
         int alter = 18;
         String vorname = "Kadir";
         String nachname = "Akdogan";
-        System.out.println("Hello " + vorname + " " + nachname + "! Du bist " + alter + " Jahre alt ");
+        int jahrgang = 2000;
+        System.out.println("Hello " + vorname + " " + nachname + "! Du bist " + alter + " Jahre alt und Jahrgang: " + jahrgang);
     }
 }
 
